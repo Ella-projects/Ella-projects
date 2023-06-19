@@ -65,3 +65,5 @@ button2 = tk.Button(master=window,text="paper",command=paper, bg="pink")
 button2.grid(column=0, row=1)
 button3 = tk.Button(master= window,text="scissors", command= scissors)
 button3.grid(column=0,row=2)
+
+window.mainloop()
