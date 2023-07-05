@@ -35,6 +35,6 @@ Feel free to explore my repositories to learn more about my work.
 
 ## **Get in Touch**
 
-🌐 You can find me on **[LinkedIn](https://www.linkedin.com/in/your-profile/)** for professional connections.
+🌐 You can find me on **[LinkedIn][(https://www.linkedin.com/in/your-profile/)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile** for professional connections.
 
 ✉️ You can reach out to me via email at demmanuella45@gmail.com.
