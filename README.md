@@ -35,6 +35,6 @@ Feel free to explore my repositories to learn more about my work.
 
 ## **Get in Touch**
 
-🌐 You can find me on **[LinkedIn]www.linkedin.com/in/emmanuella-daramola-321323262** for professional connections.
+🌐 You can find me on **www.linkedin.com/in/emmanuella-daramola-321323262** for professional connections.
 
 ✉️ You can reach out to me via email at demmanuella45@gmail.com.
