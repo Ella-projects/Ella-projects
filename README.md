@@ -6,7 +6,7 @@ I'm a passionate developer with a love for coding and problem-solving. Welcome t
 
 - 🎓 I'm pursuing a Master's degree in computer science with artificial intelligence.
 - 🌱 I'm constantly learning and exploring new technologies to enhance my skills.
-- ⚡ Fun fact: I love to [Hobby/Interest] in my free time.
+- ⚡ Fun fact: I love to crotchet in my free time.
 
 ## **Tech Stack**
 
