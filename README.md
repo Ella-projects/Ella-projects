@@ -13,23 +13,6 @@ I'm a passionate developer with a love for coding and problem-solving. Welcome t
 Here are some technologies and programming languages I'm familiar with:
 
 - Programming Languages: Python, Java, C
-- Frameworks: [List of Frameworks]
-- Databases: [List of Databases]
-- Tools: [List of Tools/Technologies]
-
-## **Projects**
-
-Here are some noteworthy projects I've worked on:
-
-1. [Project Name]: [Brief Description]
-    - Technologies used: [List of Technologies]
-    - [Link to Project Repository or Live Demo]
-2. [Project Name]: [Brief Description]
-    - Technologies used: [List of Technologies]
-    - [Link to Project Repository or Live Demo]
-3. [Project Name]: [Brief Description]
-    - Technologies used: [List of Technologies]
-    - [Link to Project Repository or Live Demo]
 
 Feel free to explore my repositories to learn more about my work.
 
