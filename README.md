@@ -12,7 +12,7 @@ I'm a passionate developer with a love for coding and problem-solving. Welcome t
 
 Here are some technologies and programming languages I'm familiar with:
 
-- Programming Languages: Python, Java, C
+- Programming Languages: Python, Java, C, C#
 
 Feel free to explore my repositories to learn more about my work.
 
