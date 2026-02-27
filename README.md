@@ -1,19 +1,63 @@
-# **Hi there, I'm Emmanuella 👋**
+# Hi, I'm Ella 👋  
+Final-year Computer Science student at the University of York  
+Software Developer @ Dojo  
 
-I'm a passionate developer with a love for coding and problem-solving. Welcome to my GitHub profile!
+I build production-grade systems across backend services, data pipelines, and machine learning.
 
-## **About Me**
 
-- 🎓 I'm pursuing a Master's degree in computer science with artificial intelligence.
-- 🌱 I'm constantly learning and exploring new technologies to enhance my skills.
-- ⚡ Fun fact: I love to crotchet in my free time.
+## 🚀 What I’m Working On
 
-## **Tech Stack**
+- Backend systems & microservices (.NET, C#, Node)
+- Salesforce integrations & automation
+- Data pipelines (BigQuery, Pub/Sub)
+- Machine learning models built from scratch
+- Full-stack web apps (Angular, Firebase)
 
-Here are some technologies and programming languages I'm familiar with:
+## 📌 Featured Projects
 
-- Programming Languages: Python, Java, C, C#
+### 🔬 IMLO – Custom Flower Classification Model
+Designed and trained a convolutional neural network from scratch (no pretrained models) achieving high accuracy across multiple flower classes.
 
+Tech: Python, PyTorch, NumPy
+
+---
+
+### 💼 Commission & Referral Billing System 
+Built backend services generating commission invoices and partner referral statements, integrating Salesforce data with PDF workflows and MongoDB.
+
+Tech: C#, .NET, Salesforce, Angular, MongoDB
+
+---
+
+### 💇🏾 Salon Chair Rental Marketplace (MVP)
+Developing a platform connecting salon owners with hairdressers for chair rentals, including payment logic and communication features.
+
+Tech: Firebase, Angular, Cloud Functions
+
+
+## 🛠 Tech Stack
+
+**Languages:**  
+C#, Python, Java, TypeScript, SQL  
+
+**Backend:**  
+.NET, Node.js, REST APIs, Microservices  
+
+**Frontend:**  
+Angular, HTML, CSS  
+
+**Data & Cloud:**  
+BigQuery, MongoDB, Firebase, Google Cloud Pub/Sub  
+
+**Machine Learning:**  
+PyTorch, NumPy, Model Training & Evaluation  
+
+## 🎯 Interests
+
+- High-performance backend systems  
+- Applied machine learning  
+- Developer tooling & infrastructure  
+- Building scalable products from scratch  
 Feel free to explore my repositories to learn more about my work.
 
 ## **Get in Touch**
